@@ -1,2 +1,2 @@
 # UniWork
-Repository contains many of practorials and assignments from my Computer Science degree.
+Repository contains many of practicals and assignments from my Computer Science degree.
